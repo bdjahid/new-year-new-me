@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* banner section*/
@@ -91,7 +92,7 @@
 
 /*img-setup*/
 .img-setup {
-    background-image: url(images/watch.png), linear-gradient(rgba(31, 41, 54, 0.689), rgba(118, 65, 96, 0.372));
+    background-image: url(images/watch.png), linear-gradient(rgba(145, 159, 178, 0.689), rgba(232, 187, 213, 0.372));
     padding: 100px;
     width: 900px;
     background-blend-mode: overlay;
