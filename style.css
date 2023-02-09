@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+}
+
+.banner-style {
+    width: 100%;
+    height: 810px;
+    background-image: url(images/banner/banner2.png);
+    display: flex;
+    text-align: right;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-dec {
+    width: 30%;
+    padding-left: 600px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.description {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.title-1 {
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+
+.description-2 {
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 200;
+
+}
+
+.sub-title {
+    font-weight: 100;
+    margin-bottom: 5px;
+}
+
+.btn-style {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.section-year {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    padding: 100px 100px;
+    background-color: rgb(116, 109, 109);
+    margin: 80px;
+}
+
+.img-setup {
+    background-image: url(images/watch.png), linear-gradient(rgba(31, 41, 54, 0.689), rgba(118, 65, 96, 0.372));
+    padding: 100px;
+    width: 900px;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    margin: 60px;
+}
+
+.img-style {
+    height: 70%;
+
+}
+
+.img-checker {
+    width: 12px;
+}
+
+.section-plans {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.plan {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.section-style {
+    display: flex;
+    width: 70%;
+    background-color: gray;
+    gap: 100px;
+    padding: 130px 200px;
+}
+
+.sub {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.email-setup {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.address {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.add {
+    margin-bottom: 10px;
+    width: 70%;
+}
+
+.email {
+    margin-bottom: 10px;
+}
+
+.phone {
+    margin-bottom: 10px;
+}
+
+.twi {
+    margin-left: 10px;
+    margin-right: 10px;
+}
